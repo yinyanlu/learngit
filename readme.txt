@@ -10,3 +10,4 @@ how to read git status synax.
 
 Creating a new branch is quick.
 
+merge will conflict if two commit happen same time.
