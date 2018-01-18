@@ -12,3 +12,4 @@ Creating a new branch is quick.
 
 Merge conflict test
 merge will conflict if two commit happen same time.
+this is a mark for former branch named dev
