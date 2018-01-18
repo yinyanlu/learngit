@@ -7,3 +7,6 @@ git has a mutable index called stage
 how to read git status synax.
 "-" means deleted.
 "+" means what's new added.
+
+Creating a new branch is quick.
+
